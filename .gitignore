@@ -1,5 +1,5 @@
 # C++ objects and libs
-
+.DS_Store
 *.slo
 *.lo
 *.o
@@ -35,4 +35,3 @@ Makefile*
 
 # QtCtreator CMake
 CMakeLists.txt.user
-
